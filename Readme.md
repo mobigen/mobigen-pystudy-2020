@@ -35,7 +35,7 @@
 - github을 통해 협업하는 방식을 알기위해 일반적인 개발에 통용되는 시나리오를 적용하려 합니다.
 - git 및 github에 대한 자세한 내용은 구성원들이 새로운 기능을 발견할때마다 추가하면 됩니다.
 - (구상안)
-  - 개인 계정으로 Fork (Original to Upstream Repository)
-  - 로컬 환경으로 Clone (Upstream Repo to Local Env)
+  - 개인 계정으로 Fork 
+  - 로컬 환경으로 Clone 
   - 코드 개발이후 Upstream Repo로 Push
   - Fork된 Repo에서 Original Repo로 Pull Request를 보내고 스스로 original repo에 적용
