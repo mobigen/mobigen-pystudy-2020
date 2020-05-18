@@ -8,7 +8,7 @@
     * Text Processing Services
     * Binary Data Services
 
-  * [3] 일정 : 
+  * [3] 일정 : 5월 25일 - 오재욱 책임 
     * (If Possible) Decorator / Closure
     * Data Types
       * datetime — Basic date and time types
