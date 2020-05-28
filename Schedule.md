@@ -7,8 +7,9 @@
     * Built-in Exceptions
     * Text Processing Services
     * Binary Data Services
+    * 5/28 보충 진행 (Regex, Generator)
 
-  * [3] 일정 : 5월 25일 - 오재욱 책임 
+  * [3] 일정 : 6월 1일 - 오재욱 책임 
     * (If Possible) Decorator / Closure
     * Data Types
       * datetime — Basic date and time types
@@ -40,6 +41,7 @@
       * operator — Standard operators as functions
 
   * [6] 일정 :
+    * GIL concept
     * Data Persistence
       * pickle — Python object serialization
       * sqlite3 — DB-API 2.0 interface for SQLite databases
