@@ -18,7 +18,7 @@
       * copy — Shallow and deep copy operations
       * pprint — Data pretty printer
 
-  * [4] 일정 : 
+  * [4] 일정 : 6월 25일 - 임재현 책임
     * Numeric and Mathematical Modules
       * math — Mathematical functions
       * random — Generate pseudo-random numbers
@@ -33,44 +33,44 @@
       * fnmatch — Unix filename pattern matching
       * linecache — Random access to text lines
       * shutil — High-level file operations
-  
-  * [5] 일정 : 
-    * Functional Programming Modules
-      * itertools — Functions creating iterators for efficient looping
-      * functools — Higher-order functions and operations on callable objects
-      * operator — Standard operators as functions
-
-  * [6] 일정 :
-    * GIL concept
     * Data Persistence
-      * pickle — Python object serialization
-      * sqlite3 — DB-API 2.0 interface for SQLite databases
+      * pickle
     * File Formats
-      * csv — CSV File Reading and Writing
-      * configparser — Configuration file parser
+      * configparser
+
+  * [5] 일정 : 6월 22일 - 박윤원책임
+    * Networking and Interprocess Communication
+      * socket — Low-level networking interface
+      * select - Waiting for I/O completion
+        * 예제(서버, 클라이언트) 중심으로 구성 
+  
+  * [6] 일정 : 박윤아 책임
+    * GIL concept
     * Concurrent Execution
       * threading — Thread-based parallelism
+        * 예제 중심으로 구성
 
   * [7] 일정 : 
+    * asyncio
+    * asyncore(optional)
+    * asynchat(optional)
+    * signal
+
+  * [] 일정 : 
     * Generic Operating System Services
-      * os — Miscellaneous operating system interfaces
-      * io — Core tools for working with streams
-      * argparse — Parser for command-line options, arguments and sub-commands
       * logging — Logging facility for Python
     * Concurrent Execution
       * subprocess — Subprocess management
-  
-  * [8] 일정 : 
     * Concurrent Execution
       * multiprocessing — Process-based parallelism
       * queue — A synchronized queue class
+    * asyncio
+  
+  * [] 일정 : 
     * Networking and Interprocess Communication
       * signal — Set handlers for asynchronous events
 
-  * [9] 일정 : 
-    * Networking and Interprocess Communication
-      * asyncio — Asynchronous I/O
-      * socket — Low-level networking interface
+  * [] 일정 : 
     * Internet Protocols and Support
       * urllib — URL handling modules
       * http — HTTP modules
@@ -79,7 +79,7 @@
     * Internet Data Handlin
       * json — JSON encoder and decoder
   
-  * [10] 일정 :
+  * [] 일정 :
     * Python Runtime Services
       * traceback — Print or retrieve a stack traceback
     * Development Tools
