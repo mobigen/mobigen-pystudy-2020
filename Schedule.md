@@ -38,18 +38,23 @@
     * File Formats
       * configparser
 
-  * [5] 일정 : 6월 22일 - 박윤원책임
+  * [5] 일정 : 6월 30일 - 오나윤책임
+    * Logging
+    * Subprocess
+    * Multiprocessing
+
+  * [5] 일정 : 박윤아 책임
+    * Concurrent Execution
+      * threading — Thread-based parallelism
+        * 예제 중심으로 구성
+
+  * [6] 일정 : 6월 22일 - 박윤원책임
+    * Applied Threading
     * Networking and Interprocess Communication
       * socket — Low-level networking interface
       * select - Waiting for I/O completion
         * 예제(서버, 클라이언트) 중심으로 구성 
   
-  * [6] 일정 : 박윤아 책임
-    * GIL concept
-    * Concurrent Execution
-      * threading — Thread-based parallelism
-        * 예제 중심으로 구성
-
   * [7] 일정 : 
     * asyncio
     * asyncore(optional)
