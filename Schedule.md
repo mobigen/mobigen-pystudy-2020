@@ -43,12 +43,12 @@
     * Subprocess
     * Multiprocessing
 
-  * [5] 일정 : 박윤아 책임
+  * [5] 일정 : 7월 6일 -  박윤아 책임
     * Concurrent Execution
       * threading — Thread-based parallelism
         * 예제 중심으로 구성
 
-  * [6] 일정 : 6월 22일 - 박윤원책임
+  * [6] 일정 : 7월 13일 - 박윤원책임
     * Applied Threading
     * Networking and Interprocess Communication
       * socket — Low-level networking interface
