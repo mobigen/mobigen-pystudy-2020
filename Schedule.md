@@ -54,6 +54,7 @@
       * socket — Low-level networking interface
       * select - Waiting for I/O completion
         * 예제(서버, 클라이언트) 중심으로 구성 
+    * (option) select
   
   * [7] 일정 : 
     * asyncio
